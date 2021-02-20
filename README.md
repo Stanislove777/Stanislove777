@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Stanislove777.Stanislove777)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislove777&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislove777&theme=graywhite)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanislove777&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanislove777&show_icons=true&theme=graywhite)
