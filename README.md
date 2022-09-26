@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Stanislove777.Stanislove777)
 
+![CodeWars](https://www.codewars.com/users/Stanislove777/badges/large)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislove777&theme=graywhite)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanislove777&show_icons=true&theme=graywhite)
