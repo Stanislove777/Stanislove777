@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanislove777&theme=graywhite)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanislove777&show_icons=true&theme=graywhite)
-
 ![CodeWars](https://www.codewars.com/users/Stanislove777/badges/large)
