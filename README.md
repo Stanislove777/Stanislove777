@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Skills
-- Python (Django, FastAPI)
+- Python (Django, FastAPI, Selenium)
 - Java (Spring)
 - C (std lib)
 - Perf QA (LoadRunner, Jmeter)
