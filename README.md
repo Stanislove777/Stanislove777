@@ -5,9 +5,10 @@
 - Java (Spring)
 - C (std lib)
 - Perf QA (LoadRunner, Jmeter)
-- DB (Oracle, PostgreSQL)
+- DB (Oracle, PostgreSQL, InfluxDB)
 - MQ (kafka, IBM MQ)
-- Other (Postman, Insomnia)
+- Monitoring (Grafana, Prometheus)
+- Other (Postman, Insomnia, OpenShift)
 
 <!--
 **Stanislove777/Stanislove777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
